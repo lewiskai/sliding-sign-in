@@ -65,6 +65,7 @@ a
 .form-container
 {
     background: rgba(45, 52, 54, 1);
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     padding: 0 50px;
